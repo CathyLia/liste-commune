@@ -1,2 +1,2 @@
-# liste-commune
+# liste des communes
 Liste des communes à Madagascar sous format json 
